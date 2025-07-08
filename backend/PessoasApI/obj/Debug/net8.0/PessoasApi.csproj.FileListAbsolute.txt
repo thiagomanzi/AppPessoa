@@ -1,0 +1,103 @@
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.staticwebassets.endpoints.json
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.exe
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.deps.json
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.runtimeconfig.json
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.dll
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.pdb
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.csproj.AssemblyReference.cache
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.AssemblyInfoInputs.cache
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.AssemblyInfo.cs
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.csproj.CoreCompileInputs.cache
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\scopedcss\bundle\PessoasApi.styles.css
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.PessoasApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.PessoasApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.build.PessoasApi.props
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PessoasApi.props
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PessoasApi.props
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.csproj.Up2Date
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.dll
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\refint\PessoasApi.dll
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.pdb
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.genruntimeconfig.cache
+C:\Users\thiago.manzi\OneDrive - SIGNAINFO\Thiago\EscolaDNC\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\ref\PessoasApi.dll
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.staticwebassets.endpoints.json
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.exe
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.deps.json
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.runtimeconfig.json
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.dll
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.pdb
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.csproj.AssemblyReference.cache
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.AssemblyInfoInputs.cache
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.AssemblyInfo.cs
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.csproj.CoreCompileInputs.cache
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\scopedcss\bundle\PessoasApi.styles.css
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.PessoasApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.PessoasApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.build.PessoasApi.props
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PessoasApi.props
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PessoasApi.props
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.csproj.Up2Date
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.dll
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\refint\PessoasApi.dll
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.pdb
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.genruntimeconfig.cache
+C:\Users\thiago.manzi\Desktop\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\ref\PessoasApi.dll
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.staticwebassets.endpoints.json
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.exe
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.deps.json
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.runtimeconfig.json
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.dll
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\PessoasApi.pdb
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.csproj.AssemblyReference.cache
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.AssemblyInfoInputs.cache
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.AssemblyInfo.cs
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.csproj.CoreCompileInputs.cache
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.MvcApplicationPartsAssemblyInfo.cs
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.MvcApplicationPartsAssemblyInfo.cache
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\scopedcss\bundle\PessoasApi.styles.css
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.build.json
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.development.json
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.PessoasApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.PessoasApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.build.PessoasApi.props
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PessoasApi.props
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PessoasApi.props
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.csproj.Up2Date
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.dll
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\refint\PessoasApi.dll
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.pdb
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\PessoasApi.genruntimeconfig.cache
+D:\THIAGO\Github\PessoasApp\backend\PessoasApI\obj\Debug\net8.0\ref\PessoasApi.dll

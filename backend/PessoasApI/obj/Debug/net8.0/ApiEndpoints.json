@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "PessoasApi.Controllers.PessoasController",
+    "Method": "Get",
+    "RelativePath": "api/Pessoas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
